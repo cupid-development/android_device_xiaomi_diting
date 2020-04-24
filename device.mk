@@ -12,7 +12,8 @@ $(call inherit-product, vendor/xiaomi/diting/diting-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
-    SettingsProviderResDiting
+    SettingsProviderResDiting \
+    WifiResDiting
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
