@@ -10,6 +10,10 @@ $(call inherit-product, device/xiaomi/sm8450-common/common.mk)
 # Inherit from the proprietary version
 $(call inherit-product, vendor/xiaomi/diting/diting-vendor.mk)
 
+# Overlay
+PRODUCT_PACKAGES += \
+    SettingsProviderResDiting
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
