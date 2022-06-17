@@ -12,6 +12,7 @@ $(call inherit-product, vendor/xiaomi/diting/diting-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
+    FrameworksResDiting \
     SettingsProviderResDiting \
     WifiResDiting
 
