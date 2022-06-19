@@ -14,6 +14,7 @@ $(call inherit-product, vendor/xiaomi/diting/diting-vendor.mk)
 PRODUCT_PACKAGES += \
     FrameworksResDiting \
     SettingsProviderResDiting \
+    SystemUIResDiting \
     WifiResDiting
 
 # Soong namespaces
