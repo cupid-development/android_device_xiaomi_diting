@@ -11,3 +11,6 @@ include device/xiaomi/sm8450-common/BoardConfigCommon.mk
 include vendor/xiaomi/diting/BoardConfigVendor.mk
 
 DEVICE_PATH := device/xiaomi/diting
+
+# Screen density
+TARGET_SCREEN_DENSITY := 480
