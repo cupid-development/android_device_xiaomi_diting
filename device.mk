@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     ApertureResDiting \
     FrameworksResDiting \
+    NfcResDiting \
     SettingsProviderResDiting \
     SettingsProviderResDitingCN \
     SystemUIResDiting \
