@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     NfcResDiting \
     SettingsProviderResDiting \
     SettingsProviderResDitingCN \
+    SettingsResDiting \
     SystemUIResDiting \
     WifiResDiting \
     WifiResDitingCN
