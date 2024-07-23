@@ -1075,6 +1075,7 @@ vendor/lib64/camera/com.qti.tuned.diting_sunny_s5khm6_wide.bin
 vendor/lib64/hw/com.qti.chi.override.so
 
 # Camera sensors (CN) - from HyperOS V816.0.4.0.ULFCNXM
+vendor/lib/camera/com.qti.sensormodule.diting_sunny_s5khm6_wide.bin|83132d46c26cbd520005539693f2e8f7095f7409
 vendor/lib64/camera/com.qti.sensormodule.diting_sunny_s5khm6_wide.bin|83132d46c26cbd520005539693f2e8f7095f7409
 
 # Computer vision firmware
