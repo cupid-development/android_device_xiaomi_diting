@@ -1,0 +1,9 @@
+# Chinese model
+bluetooth.device.default_name=Redmi K50 Ultra
+vendor.usb.product_string=Redmi K50 Ultra
+ro.product.odm.brand=Redmi
+ro.product.odm.device=diting
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=22081212C
+ro.product.odm.name=diting
+ro.product.mod_device=diting
