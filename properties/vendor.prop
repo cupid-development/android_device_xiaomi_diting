@@ -1,9 +1,9 @@
-# Bluetooth
-bluetooth.device.default_name=Xiaomi 12T Pro
-
 # Fingerprint
 persist.vendor.fingerprint.type=udfps_optical
 persist.vendor.fingerprint.sensor_location=610|2444|114
 
 # Sensors
 ro.vendor.sensors.xiaomi.udfps=true
+
+# System properties
+ro.product.property_source_order=odm,vendor,product,system_ext,system
