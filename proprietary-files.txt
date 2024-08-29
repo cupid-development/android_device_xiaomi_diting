@@ -1086,6 +1086,7 @@ vendor/etc/sensors/config/sns_wrist_pedo.json
 vendor/etc/sensors/config/stk3bcx_0.json
 vendor/etc/sensors/config/sx933x_0.json
 vendor/etc/sensors/config/tcs3408.json
+vendor/etc/sensors/hals.conf
 vendor/etc/sensors/sns_reg_config
 
 # Thermal engine
