@@ -1,2 +1,5 @@
+# Audio
+ro.hardware.audio.primary=taro-diting
+
 # Sensors
 ro.vendor.sensors.xiaomi.udfps=true
