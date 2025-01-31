@@ -1,8 +1,8 @@
 # All unpinned blobs below are extracted from diting V816.0.12.0.ULFMIXM
 
 # ACDB
-vendor/etc/acdbdata/Forte/Forte_acdb_cal.acdb
-vendor/etc/acdbdata/Forte/Forte_workspaceFileXml.qwsp
+vendor/etc/acdbdata/Forte/Forte_acdb_cal.acdb:vendor/etc/acdbdata/waipio_mtp/Forte_acdb_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_workspaceFileXml.qwsp:vendor/etc/acdbdata/waipio_mtp/Forte_workspaceFileXml.qwsp
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.36_enpu2.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.36_enpu2_comp.pmd
