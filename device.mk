@@ -34,3 +34,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/properties/build_CN.prop:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/odm/etc/build_CN.prop \
     $(LOCAL_PATH)/properties/build_GL.prop:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/odm/etc/build_GL.prop
+
+# Vibrator
+$(call soong_config_set,qti_vibrator,effect_lib,libqtivibratoreffect.xiaomi)
+$(call soong_config_set,qti_vibrator,use_effect_stream,true)
