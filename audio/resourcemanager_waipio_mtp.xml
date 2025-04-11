@@ -244,6 +244,8 @@
             </usecase>
             <ec_rx_device>
                 <id>PAL_DEVICE_OUT_SPEAKER</id>
+                <id>PAL_DEVICE_OUT_WIRED_HEADSET</id>
+                <id>PAL_DEVICE_OUT_WIRED_HEADPHONE</id>
             </ec_rx_device>
         </in-device>
         <in-device>
@@ -430,10 +432,10 @@
             <id>PAL_DEVICE_IN_EXT_EC_REF</id>
             <back_end_name>TDM-LPAIF-TX-TERTIARY</back_end_name>
             <snd_device_name>ext_ec_ref_tx</snd_device_name>
-            <max_channels>2</max_channels>
-            <channels>2</channels>
-            <bit_width>16</bit_width>
-            <samplerate>48000</samplerate>
+            <max_channels>4</max_channels>
+            <channels>4</channels>
+            <bit_width>24</bit_width>
+            <samplerate>96000</samplerate>
         </in-device>
         <out-device>
             <id>PAL_DEVICE_NONE</id>
@@ -455,7 +457,7 @@
             <speaker_protection_enabled>0</speaker_protection_enabled>
             <fractional_sr>0</fractional_sr>
             <!-- To enable external EC reference the flag extec_ref_enabled must be added as 1 -->
-            <ext_ec_ref_enabled>0</ext_ec_ref_enabled>
+            <ext_ec_ref_enabled>1</ext_ec_ref_enabled>
             <cps_enabled>0</cps_enabled>
             <vbat_enabled>0</vbat_enabled>
             <!--specify the supported bit format on speaker end point -->
@@ -496,7 +498,7 @@
             <max_channels>2</max_channels>
             <channels>1</channels>
             <!-- To enable external EC reference the flag extec_ref_enabled must be added as 1 -->
-            <ext_ec_ref_enabled>0</ext_ec_ref_enabled>
+            <ext_ec_ref_enabled>1</ext_ec_ref_enabled>
             <samplerate>48000</samplerate>
             <bit_width>24</bit_width>
             <fractional_sr>0</fractional_sr>
