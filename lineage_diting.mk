@@ -17,8 +17,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 22081212UG
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="diting_global-user 14 UKQ1.230917.001 V816.0.12.0.ULFMIXM release-keys" \
-    BuildFingerprint=Xiaomi/diting_global/diting:14/UKQ1.230917.001/V816.0.12.0.ULFMIXM:user/release-keys \
+    BuildDesc="diting_global-user 15 AQ3A.241006.001 OS2.0.1.0.VLFMIXM release-keys" \
+    BuildFingerprint=Xiaomi/diting_global/diting:15/AQ3A.241006.001/OS2.0.1.0.VLFMIXM:user/release-keys \
     DeviceProduct=diting \
     SystemName=diting_global
 

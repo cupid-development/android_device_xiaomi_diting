@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from diting V816.0.12.0.ULFMIXM
+# All unpinned blobs below are extracted from diting OS2.0.1.0.VLFMIXM
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_acdb_cal.acdb:vendor/etc/acdbdata/waipio_mtp/Forte_acdb_cal.acdb
@@ -914,7 +914,7 @@ vendor/lib64/camera/com.qti.tuned.diting_sunny_s5k4h7_ultra.bin
 vendor/lib64/camera/com.qti.tuned.diting_sunny_s5khm6_wide.bin
 vendor/lib64/hw/com.qti.chi.override.so
 
-# Camera sensors (CN) - from HyperOS V816.0.4.0.ULFCNXM
+# Camera sensors (CN) - from HyperOS OS2.0.6.0.VLFCNXM
 vendor/lib64/camera/com.qti.sensormodule.diting_sunny_s5khm6_wide.bin|83132d46c26cbd520005539693f2e8f7095f7409
 
 # Computer vision firmware
